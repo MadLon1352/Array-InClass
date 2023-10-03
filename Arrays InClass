@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int array [22];
+int foo [22] = Array.from(2001,2022)
+int n, result=0;
+
+
+ string question1 [] = "Enter a number between 1 and 22";
+ string answer1;
+ cout << question1;
+ cin >> answer1; 
+
+ int main ()
+ {
+    for (n=0 ; n<1 ; --n)
+    { 
+    result -= foo[n];
+    }
+ cout << resut;
+return 0;
+}
